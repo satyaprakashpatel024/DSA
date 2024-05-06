@@ -22,7 +22,7 @@ public class Remove_Occur_a {
         return faith;
     }
     public static void main(String[] args) {
-        String str = "Raksha";
+        String str = "Satya";
         System.out.println(removeA(str,0));
     }
 }
